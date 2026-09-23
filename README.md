@@ -40,7 +40,7 @@ I like the freedom to write, build, and physically alter what I'm creating. Work
 <br>
 
 
-### Genetic Algorithm
+### [Genetic Algorithm](https://github.com/kadenyip/Genetic-Algorithm)
 
 **Turning random characters into a target phrase—one generation at a time.**
 
