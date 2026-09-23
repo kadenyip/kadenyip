@@ -21,17 +21,15 @@
 
 ---
 
-## `01` / About me
+I'm a computer engineering student at UW who spends a lot of time brainstorming how to create useful projects that can actually improve my personal life.
 
-I'm **Kaden**, a computer engineering enthusiast who enjoys understanding how things work—from the code that runs a system to the hardware that brings it to life.
+I like the freedom to write, build, and physically alter what I'm creating. Working with both software and hardware helps me understand my projects more deeply and turn ideas into something helpful.
 
-I like the freedom to **write, build, and physically customize** what I'm creating. Working with both software and hardware helps me understand my projects more deeply and turn ideas into something tangible.
+> My curiosity typically starts with “How can I fix this problem?” and usually ends with “Can I build it?”
 
-> My curiosity starts with “How does this work?” and usually ends with “Can I build it?”
-
+---
+## Languages
 <br>
-
-## `02` / Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
@@ -43,9 +41,8 @@ I like the freedom to **write, build, and physically customize** what I'm creati
 
 <br>
 
-## `03` / Featured project
 
-### 🧬 Genetic Algorithm
+### Genetic Algorithm
 
 **Turning random characters into a target phrase—one generation at a time.**
 
