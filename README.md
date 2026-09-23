@@ -48,7 +48,7 @@ A Python experiment in evolutionary computation. Candidate strings compete throu
 
 | Mechanism | What it does |
 | :--- | :--- |
-| **Fitness** | Rewards genomes with correct characters that match the target |
+| **Fitness** | Rewards genomes that have correct characters that match the target word |
 | **Selection** | Chooses strong candidates to produce the next generation |
 | **Elitism** | Preserves the top 10% best candidates from each generation |
 | **Crossover** | Combines genetic information from two parents |
