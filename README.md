@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Exploring+computer+engineering;Writing+code.+Understanding+hardware.;Learning+by+building."
-    alt="Animated introduction: Exploring computer engineering. Writing code. Understanding hardware. Learning by building."
-  />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=60&lines=Exploring+computer+engineering;Writing+code.+Understanding+hardware.;Learning+by+building."
+  alt="Exploring computer engineering. Writing code. Understanding hardware. Learning by building."
+/>
 </p>
 
 ---
@@ -45,7 +45,7 @@ I like the freedom to **write, build, and physically customize** what I'm creati
 
 ## `03` / Featured project
 
-### 🧬 Genetic Algorithm
+### Genetic Algorithm
 
 **Turning random characters into a target phrase—one generation at a time.**
 
