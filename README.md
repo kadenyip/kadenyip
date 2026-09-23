@@ -1,27 +1,25 @@
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/31c5391a-2e80-4f7e-a852-55239c39e314"
-    alt="Seattle skyline at dusk"
     width="100%"
   />
 </p>
 
-<h1 align="center">Kaden Yip</h1>
-
 <p align="center">
-  <strong>CODE · CIRCUITS · CURIOSITY</strong>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Kaden%20Yip&fontSize=50&height=70" alt="Kaden Yip" /><br>
+  <strong>kyioma@uw.edu</strong>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Exploring+computer+engineering;Writing+code.+Understanding+hardware.;Learning+by+building."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=Exploring+computer+engineering;Writing+code.+Understanding+hardware.;Learning+by+building."
     alt="Animated introduction: Exploring computer engineering. Writing code. Understanding hardware. Learning by building."
   />
 </p>
 
 ---
 
-I'm a computer engineering student at UW who spends a lot of time brainstorming how to create useful projects that can actually improve my personal life.
+I'm a computer engineering student at UW who spends a lot of time brainstorming how to create useful projects that can actually improve my personal life. My favorite programming language is Java and I spend most of my free time coding.
 
 I like the freedom to write, build, and physically alter what I'm creating. Working with both software and hardware helps me understand my projects more deeply and turn ideas into something helpful.
 
