@@ -21,7 +21,7 @@ I enjoy coding and exploring the hardware behind the things I build. Computer en
 
 ## Projects
 
-### Genetic Algorithm 2
+### Genetic Algorithm
 
 A Python genetic-algorithm demo that evolves random strings toward a target phrase. It scores character matches, preserves top candidates, and creates new generations with crossover and mutation.
 
