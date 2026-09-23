@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="seattle-banner.png" alt="Seattle skyline at dusk" width="100%">
+  <img width="2172" height="724" alt="Image" src="https://github.com/user-attachments/assets/31c5391a-2e80-4f7e-a852-55239c39e314" alt="Seattle skyline at dusk" width="100%">
 
   <h1>Kaden Yip</h1>
   <p><strong>Computer engineering enthusiast</strong> · Learning by building software and hardware</p>
