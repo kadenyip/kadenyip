@@ -46,7 +46,7 @@ I like the freedom to write, build, and physically alter what I'm creating. Work
 
 A Python experiment in evolutionary computation. Candidate strings (genomes) compete through fitness scoring, while selection, crossover, and mutation gradually improve the population until it reaches the target.
 
-This project was a great entry point into Artificial Intelligence and optimization. I wanted to understand how systems can autonomously optimize toward a goal, laying the groundwork for more advanced machine learning and optimization techniques.
+This project was a great entry point into Artificial Intelligence and optimization for me. I wanted to understand how systems can autonomously optimize toward a goal, laying the groundwork for more advanced machine learning and optimization techniques.
 
 | Mechanism | What it does |
 | :--- | :--- |
